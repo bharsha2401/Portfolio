@@ -2,8 +2,6 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiPostman,
-  SiSlack,
-  SiVercel,
   SiMacos,
   SiCodeforces,  // Using another available icon as a placeholder for Visual Studio Code
 } from "react-icons/si";
